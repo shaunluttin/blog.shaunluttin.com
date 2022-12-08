@@ -22,7 +22,7 @@
       <pubDate>Wed, 07 Dec 2022 19:44:31 -0800</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description> Install Hugo by following the Quickstart. Done. Introduce scripts/ to build and start. Done. Automate the build in GitHub Actions. Port the first of many pages from Ghost to Hugo. Port the first of many pages from Orchard to Hugo. </description>
+      <description>Tasks Install Hugo by following the Quickstart. Done. Introduce scripts/ to build and start. Done. Automate the build in GitHub Actions. Port the first of many pages from Ghost to Hugo. Port the first of many pages from Orchard to Hugo. Philosophy Plain text provides portability. Automate all the things. Free costs less than paid. Make lots of ugly commits - expose the sausage making. </description>
     </item>
     
   </channel>
