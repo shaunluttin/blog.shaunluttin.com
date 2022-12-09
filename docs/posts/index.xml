@@ -22,7 +22,7 @@
       <pubDate>Wed, 07 Dec 2022 19:44:31 -0800</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Tasks Install Hugo by following the Quickstart. Done. Introduce scripts/ to build and start. Done. Automate the build in GitHub Actions. Port the first of many pages from bigfont.ca (Ghost) to Hugo. Port the first of many pages from muddlingthru.ca (Orchard) to Hugo. Subtasks Download the entire bigfont.ca site as an archive. Download the entire muddlingthru.ca site as an archive. Save those here: https://github.com/shaunluttin/website-archives Philosophy Plain text provides portability. Automate all the things.</description>
+      <description>Tasks Install Hugo by following the Quickstart. Done. Introduce scripts/ to build and start. Done. Automate the build in GitHub Actions. Port the first of many pages from bigfont.ca (Ghost) to Hugo. Port the first of many pages from muddlingthru.ca (Orchard) to Hugo. Subtasks Download the entire bigfont.ca site as an archive. Download the entire muddlingthru.ca site as an archive. Save those here: https://github.com/shaunluttin/website-archives Automate the conversion of those HTML files to markdown e.</description>
     </item>
     
   </channel>

@@ -17,6 +17,7 @@ draft: false
 1. Download the entire bigfont.ca site as an archive.
 2. Download the entire muddlingthru.ca site as an archive.
 3. Save those here: https://github.com/shaunluttin/website-archives
+4. Automate the conversion of those HTML files to markdown e.g., with pandoc.
 
 # Philosophy
 
