@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Dec 2022 19:47:08 -0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coming Soon!</title>
+      <title>Sunset Existing Blogs</title>
       <link>http://example.org/posts/my-second-post/</link>
       <pubDate>Wed, 07 Dec 2022 19:47:08 -0800</pubDate>
       
       <guid>http://example.org/posts/my-second-post/</guid>
-      <description></description>
+      <description> Download the sunsetted sites as archives. Save those here: https://github.com/shaunluttin/website-archives Serve then through CloudFlare pages. </description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Wed, 07 Dec 2022 19:44:31 -0800</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Tasks Install Hugo by following the Quickstart. Done. Introduce scripts/ to build and start. Done. Automate the build in GitHub Actions. Port the first of many pages from bigfont.ca (Ghost) to Hugo. Port the first of many pages from muddlingthru.ca (Orchard) to Hugo. Subtasks Download the entire bigfont.ca site as an archive. Download the entire muddlingthru.ca site as an archive. Save those here: https://github.com/shaunluttin/website-archives Automate the conversion of those HTML files to markdown e.</description>
+      <description>Tasks Install Hugo by following the Quickstart. Done. Introduce scripts/ to build and start. Done. Automate the build in GitHub Actions. Philosophy Plain text provides portability. Automate all the things. Free costs less than paid. Make lots of ugly commits - expose the sausage making. </description>
     </item>
     
   </channel>
