@@ -4,20 +4,21 @@ date: 2022-12-07T19:47:08-08:00
 draft: false
 ---
 
-1. Download the sunsetted sites as archives.
+Archive Process
+
+1. Download the sunsetted sites as static archives.
 2. Save those here: https://github.com/shaunluttin/website-archives
 3. Serve then through CloudFlare pages.
 
-Related URLs
+Done!
 
-* bigfont.ca
-* www.bigfont.ca
-* blog.bigfont.ca
+Achived URLs
 
-* shaunluttin.com
-* www.shaunluttin.com
-* blog.shaunluttin.com
-
-* socialarts.club
-* www.socialarts.club
+* https://bigfont.ca
+* https://www.bigfont.ca
+* https://blog.bigfont.ca
+* https://shaunluttin.com
+* https://www.shaunluttin.com
+* https://socialarts.club
+* https://www.socialarts.club
 
