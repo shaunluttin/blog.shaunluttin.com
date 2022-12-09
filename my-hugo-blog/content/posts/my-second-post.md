@@ -8,16 +8,16 @@ draft: false
 2. Save those here: https://github.com/shaunluttin/website-archives
 3. Serve then through CloudFlare pages.
 
-URLs:
+Archived URLs
 
-bigfont.ca
-www.bigfont.ca
-blog.bigfont.ca
+* bigfont.ca
+* www.bigfont.ca
+* blog.bigfont.ca
 
-shaunluttin.com
-www.shaunluttin.com
-blog.shaunluttin.com
+* shaunluttin.com
+* www.shaunluttin.com
+* blog.shaunluttin.com
 
-socialarts.club
-www.socialarts.club
+* socialarts.club
+* www.socialarts.club
 
