@@ -8,10 +8,10 @@
     <loc>http://example.org/</loc>
     <lastmod>2022-12-07T19:47:08-08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-second-post/</loc>
+    <loc>http://example.org/posts/sunset-existing-blogs/</loc>
     <lastmod>2022-12-07T19:47:08-08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>http://example.org/posts/rebuild-my-blog-in-hugo/</loc>
     <lastmod>2022-12-07T19:44:31-08:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>

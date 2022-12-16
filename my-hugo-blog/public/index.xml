@@ -9,22 +9,23 @@
     <lastBuildDate>Wed, 07 Dec 2022 19:47:08 -0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sunset Existing Blogs</title>
-      <link>http://example.org/posts/my-second-post/</link>
+      <link>http://example.org/posts/sunset-existing-blogs/</link>
       <pubDate>Wed, 07 Dec 2022 19:47:08 -0800</pubDate>
       
-      <guid>http://example.org/posts/my-second-post/</guid>
+      <guid>http://example.org/posts/sunset-existing-blogs/</guid>
       <description>Archive Process
-Download the sunsetted sites as static archives. Serve then through CloudFlare pages. Done!
+Download the sunsetted sites as static archives. Serve them through CloudFlare pages. Done!
 Achived URLs:
-https://bigfont.ca https://www.bigfont.ca https://blog.bigfont.ca https://muddlingthru.ca https://www.muddlingthru.ca https://muddlingthru.com https://www.muddlingthru.com We used https://www.httrack.com/ to perform the archiving. Other tools also exist.</description>
+https://bigfont.ca https://www.bigfont.ca https://blog.bigfont.ca https://muddlingthru.ca https://www.muddlingthru.ca https://muddlingthru.com https://www.muddlingthru.com We used https://www.httrack.com/ to perform the archiving. Other tools also exist.
+Featured image By Adam Ziaja - http://ziaja.name, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1532216</description>
     </item>
     
     <item>
-      <title>Rebuilding my Blog in Hugo</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <title>Rebuild my Blog in Hugo</title>
+      <link>http://example.org/posts/rebuild-my-blog-in-hugo/</link>
       <pubDate>Wed, 07 Dec 2022 19:44:31 -0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>http://example.org/posts/rebuild-my-blog-in-hugo/</guid>
       <description>Tasks Install Hugo by following the Quickstart. Done. Introduce scripts/ to build and start. Done. Philosophy Plain text provides portability. Automate all the things. Free costs less than paid. Make lots of ugly commits - expose the sausage making. </description>
     </item>
     
