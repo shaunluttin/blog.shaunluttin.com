@@ -33,4 +33,8 @@ In VSCode, Create ./.vscode/launch.config with this content.
 }
 ```
 
-In VSCode, use <CTRL> + <SHIFT> + <P> to enter the command palette and choose Start Debugging. Then attach to iisexpress.exe for your particular app.
+In VSCode,
+
+* Use `<CTRL>` + `<SHIFT>` + `<P>` to enter the command palette.
+* Then choose Start Debugging.
+* Then attach to your particular app.
