@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Shaun Luttin, NrD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Dec 2022 19:47:08 -0800</lastBuildDate><atom:link href="http://shaunluttin.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://shaunluttin.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rebuild my Blog in Hugo</title>
+      <link>http://shaunluttin.com/posts/debug-dotnet-framework-with-vs-code/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/debug-dotnet-framework-with-vs-code/</guid>
+      <description>Build your app with a portable Program Database (PDB) output.
+msbuild ` /property:Configuration=Debug ` /property:Platform=x64 ` /property:DebugType=portable ` /t:Clean,Build ` /p:DeployOnBuild=true ` /p:WebPublishMethod=Package ` /p:PackageAsSingleFile=false ` C:\dev\MyApp In VSCode, Create ./.vscode/launch.config with this content.
+{ &amp;#34;version&amp;#34;: &amp;#34;0.2.0&amp;#34;, &amp;#34;configurations&amp;#34;: [ { &amp;#34;name&amp;#34;: &amp;#34;.NET Attach&amp;#34;, &amp;#34;type&amp;#34;: &amp;#34;clr&amp;#34;, &amp;#34;request&amp;#34;: &amp;#34;attach&amp;#34;, &amp;#34;processId&amp;#34;: &amp;#34;${command:pickProcess}&amp;#34; } ] } In VSCode, use + + to enter the command palette and choose Start Debugging. Then attach to iisexpress.exe for your particular app.</description>
+    </item>
+    
     <item>
       <title>Sunset Existing Blogs</title>
       <link>http://shaunluttin.com/posts/sunset-existing-blogs/</link>

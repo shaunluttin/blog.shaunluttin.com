@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://shaunluttin.com/posts/</loc>
-    <lastmod>2022-12-07T19:47:08-08:00</lastmod>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://shaunluttin.com/posts/debug-dotnet-framework-with-vs-code/</loc>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://shaunluttin.com/</loc>
-    <lastmod>2022-12-07T19:47:08-08:00</lastmod>
+    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://shaunluttin.com/posts/sunset-existing-blogs/</loc>
     <lastmod>2022-12-07T19:47:08-08:00</lastmod>

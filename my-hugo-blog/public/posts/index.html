@@ -93,6 +93,25 @@
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     <span class="f6 db">Posts</span>
     <h1 class="f3 near-black">
+      <a href="/posts/debug-dotnet-framework-with-vs-code/" class="link black dim">
+        Rebuild my Blog in Hugo
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Build your app with a portable Program Database (PDB) output.
+msbuild ` /property:Configuration=Debug ` /property:Platform=x64 ` /property:DebugType=portable ` /t:Clean,Build ` /p:DeployOnBuild=true ` /p:WebPublishMethod=Package ` /p:PackageAsSingleFile=false ` C:\dev\MyApp In VSCode, Create ./.vscode/launch.config with this content.
+{ &#34;version&#34;: &#34;0.2.0&#34;, &#34;configurations&#34;: [ { &#34;name&#34;: &#34;.NET Attach&#34;, &#34;type&#34;: &#34;clr&#34;, &#34;request&#34;: &#34;attach&#34;, &#34;processId&#34;: &#34;${command:pickProcess}&#34; } ] } In VSCode, use + + to enter the command palette and choose Start Debugging. Then attach to iisexpress.exe for your particular app.
+    </div>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="relative w-100 w-30-l mb4 bg-white">
+          <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-white mb3 pa4 gray overflow-hidden">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
       <a href="/posts/sunset-existing-blogs/" class="link black dim">
         Sunset Existing Blogs
       </a>

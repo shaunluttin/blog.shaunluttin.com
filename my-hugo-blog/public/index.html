@@ -116,6 +116,32 @@
   <div class="db pv4 ph3 ph0-l no-underline dark-gray">
     <div class="flex flex-column flex-row-ns">
       
+      <div class="blah w-100">
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/posts/debug-dotnet-framework-with-vs-code/" class="color-inherit dim link">
+            Rebuild my Blog in Hugo
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          Build your app with a portable Program Database (PDB) output.
+msbuild ` /property:Configuration=Debug ` /property:Platform=x64 ` /property:DebugType=portable ` /t:Clean,Build ` /p:DeployOnBuild=true ` /p:WebPublishMethod=Package ` /p:PackageAsSingleFile=false ` C:\dev\MyApp In VSCode, Create ./.vscode/launch.config with this content.
+{ &#34;version&#34;: &#34;0.2.0&#34;, &#34;configurations&#34;: [ { &#34;name&#34;: &#34;.NET Attach&#34;, &#34;type&#34;: &#34;clr&#34;, &#34;request&#34;: &#34;attach&#34;, &#34;processId&#34;: &#34;${command:pickProcess}&#34; } ] } In VSCode, use + + to enter the command palette and choose Start Debugging. Then attach to iisexpress.exe for your particular app.
+        </div>
+          <a href="/posts/debug-dotnet-framework-with-vs-code/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+        
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="relative w-100 mb4">
+            
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
+    <div class="flex flex-column flex-row-ns">
+      
           
         <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
           <a href="/posts/sunset-existing-blogs/" class="db grow">
