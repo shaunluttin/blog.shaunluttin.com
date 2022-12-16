@@ -2,12 +2,13 @@
 title: "Sunset Existing Blogs"
 date: 2022-12-07T19:47:08-08:00
 draft: false
+featured_image: /sunset-ziaja.jpg
 ---
 
 Archive Process
 
 1. Download the sunsetted sites as static archives.
-2. Serve then through CloudFlare pages.
+2. Serve them through CloudFlare pages.
 
 Done!
 
@@ -22,3 +23,5 @@ Achived URLs:
 * https://www.muddlingthru.com
 
 We used  https://www.httrack.com/ to perform the archiving. Other tools also exist.
+
+> Featured image By Adam Ziaja - http://ziaja.name, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1532216
