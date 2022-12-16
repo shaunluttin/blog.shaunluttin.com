@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/dev/shaunluttin/shaunluttin.github.io/my-hugo-blog",
+	"sourceRoot": "C:/dev/shaunluttin/blog.shaunluttin.com/my-hugo-blog",
 	"sources": [
 		"ananke/css/main.css"
 	],
