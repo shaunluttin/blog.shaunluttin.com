@@ -7,18 +7,17 @@ draft: false
 Archive Process
 
 1. Download the sunsetted sites as static archives.
-2. Save those here: https://github.com/shaunluttin/website-archives
-3. Serve then through CloudFlare pages.
+2. Serve then through CloudFlare pages.
 
 Done!
 
-Achived URLs
+Achived URLs:
 
 * https://bigfont.ca
 * https://www.bigfont.ca
 * https://blog.bigfont.ca
-* https://shaunluttin.com
-* https://www.shaunluttin.com
-* https://socialarts.club
-* https://www.socialarts.club
+* https://muddlingthru.ca
+* https://www.muddlingthru.ca
+* https://www.muddlingthru.com
 
+We used  https://www.httrack.com/ to perform the archiving. Other tools also exist.

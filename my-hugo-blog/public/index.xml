@@ -14,9 +14,9 @@
       
       <guid>http://example.org/posts/my-second-post/</guid>
       <description>Archive Process
-Download the sunsetted sites as static archives. Save those here: https://github.com/shaunluttin/website-archives Serve then through CloudFlare pages. Done!
-Achived URLs
-https://bigfont.ca https://www.bigfont.ca https://blog.bigfont.ca https://shaunluttin.com https://www.shaunluttin.com https://socialarts.club https://www.socialarts.club </description>
+Download the sunsetted sites as static archives. Serve then through CloudFlare pages. Done!
+Achived URLs:
+https://bigfont.ca https://www.bigfont.ca https://blog.bigfont.ca https://muddlingthru.ca https://www.muddlingthru.ca https://www.muddlingthru.com We used https://www.httrack.com/ to perform the archiving. Other tools also exist.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@ https://bigfont.ca https://www.bigfont.ca https://blog.bigfont.ca https://shaunl
       <pubDate>Wed, 07 Dec 2022 19:44:31 -0800</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Tasks Install Hugo by following the Quickstart. Done. Introduce scripts/ to build and start. Done. Automate the build in GitHub Actions. Philosophy Plain text provides portability. Automate all the things. Free costs less than paid. Make lots of ugly commits - expose the sausage making. </description>
+      <description>Tasks Install Hugo by following the Quickstart. Done. Introduce scripts/ to build and start. Done. Philosophy Plain text provides portability. Automate all the things. Free costs less than paid. Make lots of ugly commits - expose the sausage making. </description>
     </item>
     
   </channel>

@@ -8,7 +8,6 @@ draft: false
 
 1. Install Hugo by following the Quickstart. Done.
 2. Introduce scripts/ to build and start. Done.
-3. Automate the build in GitHub Actions.
 
 # Philosophy
 
