@@ -1,5 +1,5 @@
 ---
-title: "Rebuild my Blog in Hugo"
+title: "Debug legacy .NET Framework with VS Code"
 date: 2022-12-16
 draft: false
 ---
