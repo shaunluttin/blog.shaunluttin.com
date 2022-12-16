@@ -18,6 +18,7 @@ Achived URLs:
 * https://blog.bigfont.ca
 * https://muddlingthru.ca
 * https://www.muddlingthru.ca
+* https://muddlingthru.com
 * https://www.muddlingthru.com
 
 We used  https://www.httrack.com/ to perform the archiving. Other tools also exist.
