@@ -100,7 +100,8 @@
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       Build your app with a portable Program Database (PDB) output.
 msbuild ` /property:Configuration=Debug ` /property:Platform=x64 ` /property:DebugType=portable ` /t:Clean,Build ` /p:DeployOnBuild=true ` /p:WebPublishMethod=Package ` /p:PackageAsSingleFile=false ` C:\dev\MyApp In VSCode, Create ./.vscode/launch.config with this content.
-{ &#34;version&#34;: &#34;0.2.0&#34;, &#34;configurations&#34;: [ { &#34;name&#34;: &#34;.NET Attach&#34;, &#34;type&#34;: &#34;clr&#34;, &#34;request&#34;: &#34;attach&#34;, &#34;processId&#34;: &#34;${command:pickProcess}&#34; } ] } In VSCode, use + + to enter the command palette and choose Start Debugging. Then attach to iisexpress.exe for your particular app.
+{ &#34;version&#34;: &#34;0.2.0&#34;, &#34;configurations&#34;: [ { &#34;name&#34;: &#34;.NET Attach&#34;, &#34;type&#34;: &#34;clr&#34;, &#34;request&#34;: &#34;attach&#34;, &#34;processId&#34;: &#34;${command:pickProcess}&#34; } ] } In VSCode,
+Use &lt;CTRL&gt; + &lt;SHIFT&gt; + &lt;P&gt; to enter the command palette. Then choose Start Debugging. Then attach to your particular app.
     </div>
   </div>
 </div>
