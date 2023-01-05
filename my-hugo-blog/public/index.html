@@ -116,6 +116,33 @@
   <div class="db pv4 ph3 ph0-l no-underline dark-gray">
     <div class="flex flex-column flex-row-ns">
       
+      <div class="blah w-100">
+        <h1 class="f3 fw1 athelas mt0 lh-title">
+          <a href="/posts/powershell-aggregate-or-reduce/" class="color-inherit dim link">
+            Reduce and/or aggregate in PowerShell
+            </a>
+        </h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
+          PowerShell&rsquo;s built-in ForEach-Object provides a reduce/aggregate routine.
+In short-form it looks like this to sum a range of numbers.
+@(1, 2, 3) | ForEach-Object { $sum = 0; } { $sum += $_; } { $sum; } If we break it out with comments, we can see three blocks.
+@(1, 2, 3, 4, 5) | ForEach-Object { # Begin. Here we set up the accumulator. $sum = 0; } { # Process.
+        </div>
+          <a href="/posts/powershell-aggregate-or-reduce/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+        
+      </div>
+    </div>
+  </div>
+</article>
+
+          </div>
+        
+          <div class="relative w-100 mb4">
+            
+<article class="bb b--black-10">
+  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
+    <div class="flex flex-column flex-row-ns">
+      
           
         <div class="pr3-ns mb4 mb0-ns w-100 w-40-ns">
           <a href="/posts/debug-dotnet-framework-with-vs-code/" class="db grow">
@@ -179,32 +206,25 @@ Featured image By Adam Ziaja - http://ziaja.name, CC BY-SA 3.0, https://commons.
 
           </div>
         
-          <div class="relative w-100 mb4">
-            
-<article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l no-underline dark-gray">
-    <div class="flex flex-column flex-row-ns">
-      
-      <div class="blah w-100">
-        <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/posts/rebuild-my-blog-in-hugo/" class="color-inherit dim link">
-            Rebuild my Blog in Hugo
-            </a>
-        </h1>
-        <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          Tasks Install Hugo by following the Quickstart. Done. Introduce scripts/ to build and start. Done. Philosophy Plain text provides portability. Automate all the things. Free costs less than paid. Make lots of ugly commits - expose the sausage making. 
-        </div>
-          <a href="/posts/rebuild-my-blog-in-hugo/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-        
-      </div>
-    </div>
-  </div>
-</article>
-
-          </div>
-        
       </section>
 
+      
+      <section class="w-100">
+        <h1 class="f3">More</h1>
+        
+        
+          <h2 class="f5 fw4 mb4 dib mr3">
+            <a href="/posts/rebuild-my-blog-in-hugo/" class="link black dim">
+              Rebuild my Blog in Hugo
+            </a>
+          </h2>
+        
+
+        
+        
+          <a href="/posts/" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc">All Posts</a>
+        
+        </section>
       
 
       </div>
@@ -214,7 +234,7 @@ Featured image By Adam Ziaja - http://ziaja.name, CC BY-SA 3.0, https://commons.
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://shaunluttin.com/" >
-    &copy;  Shaun Luttin, NrD 2022 
+    &copy;  Shaun Luttin, NrD 2023 
   </a>
     <div>
 <div class="ananke-socials">
