@@ -21,3 +21,11 @@ dotnet test --filter PartialTestName
 dotnet msbuild
 dotnet vstest
 ```
+
+# Extras
+
+Format new files with cshariper.
+
+```shell
+git diff develop --name-only --diff-filter=A -- *.cs | % { $f = @() } { $f += $_ } { dotnet csharpier $f }
+```
