@@ -27,6 +27,6 @@ dotnet vstest
 Format new files with cshariper.
 
 ```powershell
-git diff develop --name-only --diff-filter=A -- *.cs
+git diff develop --name-only --diff-filter=A -- *.cs `
 | ForEach-Object { $files = @() } { $files += $_ } { dotnet csharpier $files }
 ```
