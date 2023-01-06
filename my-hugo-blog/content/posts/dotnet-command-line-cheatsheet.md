@@ -11,6 +11,7 @@ This presents an opinionated cheatsheet about how to use .NET from the command l
 ```
 dotnet build
 dotnet test
+dotnet test --logger "console;verbosity=normal" --no-build
 ```
 
 # .NET Framework

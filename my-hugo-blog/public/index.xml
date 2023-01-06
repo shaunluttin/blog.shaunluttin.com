@@ -14,7 +14,7 @@
       
       <guid>http://shaunluttin.com/posts/dotnet-command-line-cheatsheet/</guid>
       <description>This presents an opinionated cheatsheet about how to use .NET from the command line.
-.NET Core dotnet build dotnet test .NET Framework dotnet msbuild dotnet vstest </description>
+.NET Core dotnet build dotnet test dotnet test --logger &amp;#34;console;verbosity=normal&amp;#34; --no-build .NET Framework dotnet msbuild dotnet vstest </description>
     </item>
     
     <item>
