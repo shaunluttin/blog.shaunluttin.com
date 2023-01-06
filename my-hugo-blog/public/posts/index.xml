@@ -20,6 +20,18 @@ In short-form it looks like this to sum a range of numbers.
     </item>
     
     <item>
+      <title>Set image metadata with exiftool</title>
+      <link>http://shaunluttin.com/posts/set-image-metadata-with-exiftool/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/set-image-metadata-with-exiftool/</guid>
+      <description>Install it from here https://exiftool.org/
+Find available tag names here https://exiftool.org/TagNames/index.html
+The following example sets the IPTC:Keywords attribute.
+exiftool(-k).exe .\turtles-climbing-hills.png -IPTC:Keywords=&amp;#34;Absurd&amp;#34; </description>
+    </item>
+    
+    <item>
       <title>Debug legacy .NET Framework with VS Code</title>
       <link>http://shaunluttin.com/posts/debug-dotnet-framework-with-vs-code/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
