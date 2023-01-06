@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Shaun Luttin, NrD</title>
     <link>http://shaunluttin.com/</link>
@@ -39,7 +39,7 @@ exiftool(-k).exe .\turtles-climbing-hills.png -IPTC:Keywords=&amp;#34;Absurd&amp
       <guid>http://shaunluttin.com/posts/debug-dotnet-framework-with-vs-code/</guid>
       <description>Build your app with a portable Program Database (PDB) output.
 msbuild ` /property:Configuration=Debug ` /property:Platform=x64 ` /property:DebugType=portable ` /t:Clean,Build ` /p:DeployOnBuild=true ` /p:WebPublishMethod=Package ` /p:PackageAsSingleFile=false ` C:\dev\MyApp In VSCode, Create ./.vscode/launch.config with this content.
-{ &amp;#34;version&amp;#34;: &amp;#34;0.2.0&amp;#34;, &amp;#34;configurations&amp;#34;: [ { &amp;#34;name&amp;#34;: &amp;#34;.NET Attach&amp;#34;, &amp;#34;type&amp;#34;: &amp;#34;clr&amp;#34;, &amp;#34;request&amp;#34;: &amp;#34;attach&amp;#34;, &amp;#34;processId&amp;#34;: &amp;#34;${command:pickProcess}&amp;#34; } ] } In VSCode,
+{&amp;#34;version&amp;#34;: &amp;#34;0.2.0&amp;#34;,&amp;#34;configurations&amp;#34;: [{&amp;#34;name&amp;#34;: &amp;#34;.NET Attach&amp;#34;,&amp;#34;type&amp;#34;: &amp;#34;clr&amp;#34;,&amp;#34;request&amp;#34;: &amp;#34;attach&amp;#34;,&amp;#34;processId&amp;#34;: &amp;#34;${command:pickProcess}&amp;#34;}]} In VSCode,
 Use &amp;lt;CTRL&amp;gt; + &amp;lt;SHIFT&amp;gt; + &amp;lt;P&amp;gt; to enter the command palette. Then choose Start Debugging. Then attach to your particular app.</description>
     </item>
     

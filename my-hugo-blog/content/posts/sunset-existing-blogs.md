@@ -2,7 +2,6 @@
 title: "Sunset Existing Blogs"
 date: 2022-12-07T19:47:08-08:00
 draft: false
-featured_image: /sunset-ziaja.jpg
 ---
 
 Archive Process

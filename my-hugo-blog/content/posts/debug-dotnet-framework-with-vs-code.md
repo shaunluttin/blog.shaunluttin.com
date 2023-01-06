@@ -2,7 +2,6 @@
 title: "Debug legacy .NET Framework with VS Code"
 date: 2022-12-16
 draft: false
-featured_image: /dotnet-framework-vscode-omnisharp.jpg
 ---
 
 Build your app with a portable Program Database (PDB) output.
