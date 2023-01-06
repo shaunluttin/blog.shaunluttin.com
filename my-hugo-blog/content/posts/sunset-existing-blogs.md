@@ -22,5 +22,3 @@ Achived URLs:
 * https://www.muddlingthru.com
 
 We used  https://www.httrack.com/ to perform the archiving. Other tools also exist.
-
-> Featured image By Adam Ziaja - http://ziaja.name, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1532216

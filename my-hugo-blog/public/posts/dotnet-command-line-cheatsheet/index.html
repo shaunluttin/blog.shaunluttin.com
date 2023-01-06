@@ -39,15 +39,13 @@
   />
 
   
-  <title>Set image metadata with exiftool - Shaun Luttin, NrD</title>
+  <title>.NET Command Line Cheatsheet - Shaun Luttin, NrD</title>
 
   
   <meta name="theme-color" />
   
-  <meta name="description" content="Install it from here https://exiftool.org/
-Find available tag names here https://exiftool.org/TagNames/index.html
-The following example sets the IPTC:Keywords attribute.
-exiftool(-k).exe .\turtles-climbing-hills.png -IPTC:Keywords=&#34;Absurd&#34; " />
+  <meta name="description" content="This presents an opinionated cheatsheet about how to use .NET from the command line.
+.NET Core dotnet build dotnet test .NET Framework dotnet msbuild dotnet vstest " />
   <meta
     name="author"
     content=""
@@ -100,32 +98,26 @@ exiftool(-k).exe .\turtles-climbing-hills.png -IPTC:Keywords=&#34;Absurd&#34; " 
   
   
   
-  <meta property="og:title" content="Set image metadata with exiftool" />
-<meta property="og:description" content="Install it from here https://exiftool.org/
-Find available tag names here https://exiftool.org/TagNames/index.html
-The following example sets the IPTC:Keywords attribute.
-exiftool(-k).exe .\turtles-climbing-hills.png -IPTC:Keywords=&#34;Absurd&#34; " />
+  <meta property="og:title" content=".NET Command Line Cheatsheet" />
+<meta property="og:description" content="This presents an opinionated cheatsheet about how to use .NET from the command line.
+.NET Core dotnet build dotnet test .NET Framework dotnet msbuild dotnet vstest " />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://shaunluttin.com/posts/set-image-metadata-with-exiftool/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2023-01-05T00:00:00+00:00" />
-<meta property="article:modified_time" content="2023-01-05T00:00:00+00:00" />
+<meta property="og:url" content="http://shaunluttin.com/posts/dotnet-command-line-cheatsheet/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-01-06T00:00:00+00:00" />
+<meta property="article:modified_time" content="2023-01-06T00:00:00+00:00" />
 
   
-  <meta itemprop="name" content="Set image metadata with exiftool">
-<meta itemprop="description" content="Install it from here https://exiftool.org/
-Find available tag names here https://exiftool.org/TagNames/index.html
-The following example sets the IPTC:Keywords attribute.
-exiftool(-k).exe .\turtles-climbing-hills.png -IPTC:Keywords=&#34;Absurd&#34; "><meta itemprop="datePublished" content="2023-01-05T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2023-01-05T00:00:00+00:00" />
-<meta itemprop="wordCount" content="21">
+  <meta itemprop="name" content=".NET Command Line Cheatsheet">
+<meta itemprop="description" content="This presents an opinionated cheatsheet about how to use .NET from the command line.
+.NET Core dotnet build dotnet test .NET Framework dotnet msbuild dotnet vstest "><meta itemprop="datePublished" content="2023-01-06T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2023-01-06T00:00:00+00:00" />
+<meta itemprop="wordCount" content="26">
 <meta itemprop="keywords" content="" />
   
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Set image metadata with exiftool"/>
-<meta name="twitter:description" content="Install it from here https://exiftool.org/
-Find available tag names here https://exiftool.org/TagNames/index.html
-The following example sets the IPTC:Keywords attribute.
-exiftool(-k).exe .\turtles-climbing-hills.png -IPTC:Keywords=&#34;Absurd&#34; "/>
+<meta name="twitter:title" content=".NET Command Line Cheatsheet"/>
+<meta name="twitter:description" content="This presents an opinionated cheatsheet about how to use .NET from the command line.
+.NET Core dotnet build dotnet test .NET Framework dotnet msbuild dotnet vstest "/>
 
   
   
@@ -210,23 +202,26 @@ exiftool(-k).exe .\turtles-climbing-hills.png -IPTC:Keywords=&#34;Absurd&#34; "/
 
 <article>
   <header class="mb-20">
-    <h1 class="!my-0 pb-2.5">Set image metadata with exiftool</h1>
+    <h1 class="!my-0 pb-2.5">.NET Command Line Cheatsheet</h1>
 
     
     <div class="text-sm opacity-60">
       
-      <time>Jan 5, 2023</time>
+      <time>Jan 6, 2023</time>
       
       
     </div>
     
   </header>
 
-  <section><p>Install it from here <a href="https://exiftool.org/">https://exiftool.org/</a></p>
-<p>Find available tag names here <a href="https://exiftool.org/TagNames/index.html">https://exiftool.org/TagNames/index.html</a></p>
-<p>The following example sets the <code>IPTC:Keywords</code> attribute.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>exiftool<span style="color:#f92672">(</span>-k<span style="color:#f92672">)</span>.exe .<span style="color:#ae81ff">\t</span>urtles-climbing-hills.png -IPTC:Keywords<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Absurd&#34;</span>
-</span></span></code></pre></div></section>
+  <section><p>This presents an opinionated cheatsheet about how to use .NET from the command line.</p>
+<h1 id="net-core">.NET Core</h1>
+<pre tabindex="0"><code>dotnet build
+dotnet test
+</code></pre><h1 id="net-framework">.NET Framework</h1>
+<pre tabindex="0"><code>dotnet msbuild
+dotnet vstest
+</code></pre></section>
 
   
   
@@ -238,17 +233,11 @@ exiftool(-k).exe .\turtles-climbing-hills.png -IPTC:Keywords=&#34;Absurd&#34; "/
     class="mt-24 flex rounded-lg bg-black/[3%] p-1.5 text-lg dark:bg-white/[8%]"
   >
     
-    <a
-      class="flex w-1/2 items-center rounded-md p-6 pr-3 no-underline hover:bg-black/[2%]"
-      href="http://shaunluttin.com/posts/powershell-aggregate-or-reduce/"
-      ><span class="mr-1.5">←</span><span>Reduce and/or aggregate in PowerShell</span></a
-    >
-    
     
     <a
       class="ml-auto flex w-1/2 items-center justify-end rounded-md p-6 pl-3 no-underline hover:bg-black/[2%]"
-      href="http://shaunluttin.com/posts/debug-dotnet-framework-with-vs-code/"
-      ><span>Debug legacy .NET Framework with VS Code</span><span class="ml-1.5">→</span></a
+      href="http://shaunluttin.com/posts/powershell-aggregate-or-reduce/"
+      ><span>Reduce and/or aggregate in PowerShell</span><span class="ml-1.5">→</span></a
     >
     
   </nav>

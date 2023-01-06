@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Shaun Luttin, NrD</title>
     <link>http://shaunluttin.com/posts/</link>
     <description>Recent content in Posts on Shaun Luttin, NrD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://shaunluttin.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://shaunluttin.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.NET Command Line Cheatsheet</title>
+      <link>http://shaunluttin.com/posts/dotnet-command-line-cheatsheet/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/dotnet-command-line-cheatsheet/</guid>
+      <description>This presents an opinionated cheatsheet about how to use .NET from the command line.
+.NET Core dotnet build dotnet test .NET Framework dotnet msbuild dotnet vstest </description>
+    </item>
+    
     <item>
       <title>Reduce and/or aggregate in PowerShell</title>
       <link>http://shaunluttin.com/posts/powershell-aggregate-or-reduce/</link>
@@ -52,8 +62,7 @@ Use &amp;lt;CTRL&amp;gt; + &amp;lt;SHIFT&amp;gt; + &amp;lt;P&amp;gt; to enter th
       <description>Archive Process
 Download the sunsetted sites as static archives. Serve them through CloudFlare pages. Done!
 Achived URLs:
-https://bigfont.ca https://www.bigfont.ca https://blog.bigfont.ca https://muddlingthru.ca https://www.muddlingthru.ca https://muddlingthru.com https://www.muddlingthru.com We used https://www.httrack.com/ to perform the archiving. Other tools also exist.
-Featured image By Adam Ziaja - http://ziaja.name, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1532216</description>
+https://bigfont.ca https://www.bigfont.ca https://blog.bigfont.ca https://muddlingthru.ca https://www.muddlingthru.ca https://muddlingthru.com https://www.muddlingthru.com We used https://www.httrack.com/ to perform the archiving. Other tools also exist.</description>
     </item>
     
     <item>

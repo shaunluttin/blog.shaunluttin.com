@@ -4,3 +4,6 @@
 [submodule "my-hugo-blog/themes/PaperMod"]
 	path = my-hugo-blog/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "my-hugo-blog/themes/paper"]
+	path = my-hugo-blog/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
