@@ -45,7 +45,7 @@
   <meta name="theme-color" />
   
   <meta name="description" content="This presents an opinionated cheatsheet about how to use .NET from the command line.
-.NET Core dotnet build dotnet test dotnet test --logger &#34;console;verbosity=normal&#34; --no-build .NET Framework dotnet msbuild dotnet vstest " />
+.NET Core dotnet build dotnet test dotnet test --logger &#34;console;verbosity=normal&#34; --no-build dotnet test --filter PartialTestName .NET Framework (Legacy) dotnet msbuild dotnet vstest " />
   <meta
     name="author"
     content=""
@@ -100,7 +100,7 @@
   
   <meta property="og:title" content=".NET Command Line Cheatsheet" />
 <meta property="og:description" content="This presents an opinionated cheatsheet about how to use .NET from the command line.
-.NET Core dotnet build dotnet test dotnet test --logger &#34;console;verbosity=normal&#34; --no-build .NET Framework dotnet msbuild dotnet vstest " />
+.NET Core dotnet build dotnet test dotnet test --logger &#34;console;verbosity=normal&#34; --no-build dotnet test --filter PartialTestName .NET Framework (Legacy) dotnet msbuild dotnet vstest " />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://shaunluttin.com/posts/dotnet-command-line-cheatsheet/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2023-01-06T00:00:00+00:00" />
@@ -109,15 +109,15 @@
   
   <meta itemprop="name" content=".NET Command Line Cheatsheet">
 <meta itemprop="description" content="This presents an opinionated cheatsheet about how to use .NET from the command line.
-.NET Core dotnet build dotnet test dotnet test --logger &#34;console;verbosity=normal&#34; --no-build .NET Framework dotnet msbuild dotnet vstest "><meta itemprop="datePublished" content="2023-01-06T00:00:00+00:00" />
+.NET Core dotnet build dotnet test dotnet test --logger &#34;console;verbosity=normal&#34; --no-build dotnet test --filter PartialTestName .NET Framework (Legacy) dotnet msbuild dotnet vstest "><meta itemprop="datePublished" content="2023-01-06T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2023-01-06T00:00:00+00:00" />
-<meta itemprop="wordCount" content="31">
+<meta itemprop="wordCount" content="36">
 <meta itemprop="keywords" content="" />
   
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content=".NET Command Line Cheatsheet"/>
 <meta name="twitter:description" content="This presents an opinionated cheatsheet about how to use .NET from the command line.
-.NET Core dotnet build dotnet test dotnet test --logger &#34;console;verbosity=normal&#34; --no-build .NET Framework dotnet msbuild dotnet vstest "/>
+.NET Core dotnet build dotnet test dotnet test --logger &#34;console;verbosity=normal&#34; --no-build dotnet test --filter PartialTestName .NET Framework (Legacy) dotnet msbuild dotnet vstest "/>
 
   
   
@@ -216,13 +216,14 @@
 
   <section><p>This presents an opinionated cheatsheet about how to use .NET from the command line.</p>
 <h1 id="net-core">.NET Core</h1>
-<pre tabindex="0"><code>dotnet build
-dotnet test
-dotnet test --logger &#34;console;verbosity=normal&#34; --no-build
-</code></pre><h1 id="net-framework">.NET Framework</h1>
-<pre tabindex="0"><code>dotnet msbuild
-dotnet vstest
-</code></pre></section>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>dotnet build
+</span></span><span style="display:flex;"><span>dotnet test
+</span></span><span style="display:flex;"><span>dotnet test --logger <span style="color:#e6db74">&#34;console;verbosity=normal&#34;</span> --no-build
+</span></span><span style="display:flex;"><span>dotnet test --filter PartialTestName
+</span></span></code></pre></div><h1 id="net-framework-legacy">.NET Framework (Legacy)</h1>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>dotnet msbuild
+</span></span><span style="display:flex;"><span>dotnet vstest
+</span></span></code></pre></div></section>
 
   
   

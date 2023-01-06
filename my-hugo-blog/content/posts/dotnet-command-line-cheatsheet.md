@@ -8,15 +8,16 @@ This presents an opinionated cheatsheet about how to use .NET from the command l
 
 # .NET Core
 
-```
+```shell
 dotnet build
 dotnet test
 dotnet test --logger "console;verbosity=normal" --no-build
+dotnet test --filter PartialTestName
 ```
 
-# .NET Framework
+# .NET Framework (Legacy)
 
-```
+```shell
 dotnet msbuild
 dotnet vstest
 ```
