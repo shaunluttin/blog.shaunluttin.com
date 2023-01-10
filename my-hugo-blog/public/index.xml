@@ -6,7 +6,17 @@
     <description>Recent content on Shaun Luttin, NrD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://shaunluttin.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://shaunluttin.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows Terminal Cheatsheet</title>
+      <link>http://shaunluttin.com/posts/windows-terminal-command-cheatsheet/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/windows-terminal-command-cheatsheet/</guid>
+      <description>Command Palette ctrl + shift + p
+Move tab backward Move tab forward </description>
+    </item>
+    
     <item>
       <title>.NET Command Line Cheatsheet</title>
       <link>http://shaunluttin.com/posts/dotnet-command-line-cheatsheet/</link>
