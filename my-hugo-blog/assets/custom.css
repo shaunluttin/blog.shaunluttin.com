@@ -17,7 +17,6 @@ body > main.prose > article > header > h1
     color:green;
 }
 
-body > main.prose > article > section > h1
-{
-    font-size:40px;
+body > main.prose > section > h2 {
+    color:green;
 }
