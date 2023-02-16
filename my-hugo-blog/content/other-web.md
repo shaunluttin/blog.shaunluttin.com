@@ -16,10 +16,10 @@ StackOverflow
 : Mostly TypeScript, C#, and ASP.NET Core
 : https://stackoverflow.com/users/1108891/shaun-luttin
 
-Very Old Archived Blog
+Archived Blog Circa 2015
 : https://muddlingthru.ca/
 
-Old Archived Blog
+Archived Blog Circa 2020
 : https://blog.bigfont.ca/
 
 Microsoft MVP Profile
