@@ -2,3 +2,11 @@ baseURL = 'http://shaunluttin.com/'
 languageCode = 'en-us'
 title = 'Shaun Luttin, NrD'
 theme = 'paper'
+
+[menu]
+
+  [[menu.main]]
+    identifier = "other"
+    name = "Other Web Presence"
+    url = "/other-web/"
+    weight = 10
