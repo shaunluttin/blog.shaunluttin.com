@@ -13,7 +13,7 @@ OpenID Connect App for Aurelia
 : https://github.com/aurelia-contrib/aurelia-open-id-connect
 
 StackOverflow
-: Mostly TypeScript, C#, and ASP.NET Core
+: Over 100K points for TypeScript, C#, and ASP.NET Core.
 : https://stackoverflow.com/users/1108891/shaun-luttin
 
 Archived Blog Circa 2015
