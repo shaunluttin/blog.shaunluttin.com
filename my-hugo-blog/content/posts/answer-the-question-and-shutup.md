@@ -16,6 +16,6 @@ Examiners: _Silence._
 
 Student: _I looked at some other statistic techniques; the zzz technique had an F-group of 17..._
 
-This gives the examiners all sorts of opportunities to ask follow up questions. 
+The follow-up answer gives examiners opportunities to ask follow up questions. 
 
 So, answer the question _and shut up._
