@@ -6,7 +6,18 @@
     <description>Recent content on Shaun Luttin, NrD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://shaunluttin.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://shaunluttin.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Answer the question and shut-up</title>
+      <link>http://shaunluttin.com/posts/answer-the-question-and-shutup/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/answer-the-question-and-shutup/</guid>
+      <description>When PhD students come to the end of the program the thesis defense happens. Experts fly in from around the world to grill the student on the topic. Good thesis advisors train students to answer questions and then shutup. Students almost always feel a temptation to go on a length.
+Examiner: Why did you use that particular statistical technique?
+Student: It made sense because of its xxx and yyy characteristics.</description>
+    </item>
+    
     <item>
       <title>Windows Terminal Cheatsheet</title>
       <link>http://shaunluttin.com/posts/windows-terminal-command-cheatsheet/</link>
