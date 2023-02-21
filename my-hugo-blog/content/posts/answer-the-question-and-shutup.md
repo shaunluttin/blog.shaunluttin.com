@@ -4,18 +4,18 @@ date: 2023-02-21
 draft: false
 ---
 
-When PhD students do the thesis defense, experts fly in to grill the student.
-Good thesis advisors train students to answer questions _and then shutup_. 
+When PhD students do their thesis defense, experts fly in to grill the student.
+Good thesis advisors train students to answer each question _and then shut-up_. 
 Students almost always feel a temptation to go on a length. 
 
-Examiner: _Why did you use that particular statistical technique?_
+Examiner: _Why did you use that particular statistical test?_
 
-Student: _It made sense because of its xxx and yyy characteristics._
+Student: _We used regression because our data met its requirements for establishing cause-and-effect._
 
 Examiners: _Silence._
 
-Student: _I looked at some other statistic techniques; the zzz technique had an F-group of 17..._
+Student: _We designed our data collection to adhere to parametric test requirements. Within the parametric set of tests, we also looked at comparison tests and correlation tests. We found a few t-test approaches that we could have used with fewer predictors..._
 
-The follow-up answer gives examiners opportunities to ask follow up questions. 
+The follow-up answer gives examiners opportunities to ask follow up questions.
 
-So, answer the question _and shut up._
+So, answer the question _and shut-up._
