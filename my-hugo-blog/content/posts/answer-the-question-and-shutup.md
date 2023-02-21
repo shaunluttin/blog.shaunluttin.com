@@ -4,8 +4,7 @@ date: 2023-02-21
 draft: false
 ---
 
-When PhD students come to the end of the program the thesis defense happens. 
-Experts fly in from around the world to grill the student on the topic.
+When PhD students do the thesis defense, experts fly in to grill the student.
 Good thesis advisors train students to answer questions _and then shutup_. 
 Students almost always feel a temptation to go on a length. 
 
