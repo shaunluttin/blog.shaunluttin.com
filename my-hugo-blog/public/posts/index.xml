@@ -26,8 +26,9 @@ Student: We designed our data collection to adhere to parametric test requiremen
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>http://shaunluttin.com/posts/windows-terminal-command-cheatsheet/</guid>
-      <description>Command Palette ctrl + shift + p
-Move tab backward Move tab forward </description>
+      <description>Open the Command Palette with CTRL + SHIFT + P
+Then start typing one of these:
+Move tab backwardMove tab forward </description>
     </item>
     
     <item>

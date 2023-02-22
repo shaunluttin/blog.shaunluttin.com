@@ -19,3 +19,7 @@ Student: _We designed our data collection to adhere to parametric test requireme
 The follow-up answer gives examiners opportunities to ask follow up questions.
 
 So, answer the question _and shut-up._
+
+---
+
+Adapted from personal communication with Dr. Randy Paterson.
