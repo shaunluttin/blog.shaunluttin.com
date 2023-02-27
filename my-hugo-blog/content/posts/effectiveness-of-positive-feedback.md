@@ -10,11 +10,11 @@ Positive feedback helps because:
 - **it communicate that someone inspects the work, and**
 - **it opens the apperture to receive corrective feedback.**
 
-A manager can reasonably expect a member of staff to do 60% of the tasks assigned. Reinforce every little bit of the _existing_ 60%. Sure, we want staff to improve. First, though, solidify the existing performance.
+A manager can reasonably expect a member of staff to do 60% of assigned tasks. To help staff improve, we can reinforce every little bit of _existing_ good behavior. 
 
-Sometimes people perform poorly because they think no one cares. _Nobody notices what I do..._ We want staff to know that we pay attention. Since saying, "I'm watching you" tends to land as creepy instead give positive feedback to communicate it implicity.
+Staff sometimes perform poorly because they think no one notices. _Why bother trying; nobody notices what I do._ We want staff to know that we pay attention. _I'm watching you_ tends to land as creepy; instead, give positive feedback to communicate that implicity.
 
-We want people to add additional good behavior to their repetoire. Often that requires corrective feedback. People act like a camera; positive feedback opens the apperature a tiny bit; corrective feedback closes it. If you the camera to receive, remember to open the apperature.
+Often staff require corrective feedback; it only works if they absorb it it. People act like a camera; positive feedback opens the apperature a tiny bit; corrective feedback closes it a lot. To make the camera receptive, remember to open the apperature.
 
 ---
 
