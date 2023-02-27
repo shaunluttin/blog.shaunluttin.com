@@ -4,7 +4,7 @@ date: 2023-02-27
 draft: false
 ---
 
-Positive feedback helps because:
+# Positive feedback helps because:
 
 - **it reinforces existing good behavior,**
 - **it communicate that someone inspects the work, and**
