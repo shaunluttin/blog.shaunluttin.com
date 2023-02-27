@@ -16,9 +16,12 @@ Staff sometimes perform poorly because they think no one performs inspections. _
 
 Staff do need _some_ corrective feedback. It only works, though, if they absorb it. Most people act like a camera; positive feedback opens the apperature a bit; corrective feedback closes it a lot. Make the camera receptive, remember to open the apperature. While people clearly differ in sensitivity, a ratio of 3:1 positive to corrective seems about right for most.
 
-**Use shaping**. Make the positive feedback relevant to incremental improvements at the goal. 
-* Relevant: While teaching someone to swim, complement their swimming technique not their meal planning. _Good coordination of your legs and arms on that lap_ works better than _nice lunch you brought today_.
-* Incremental: With an ultimate goal of swimming laps, we first praise getting in the water, then we praise floating, then blowing bubbles, and we reinforce each along the way. 
+**Use shaping**.  Make the positive feedback relevant and incremental.
+
+* **Relevant**: While teaching someone to swim, praise the swimming technique. _Good coordination of legs and arms._
+* **Incremental**: First praise getting in the water, then we praise floating, then blowing bubbles, et cetera.
+
+Finally, good feedback has _specificity_ and _immediacy_.
 
 ---
 
