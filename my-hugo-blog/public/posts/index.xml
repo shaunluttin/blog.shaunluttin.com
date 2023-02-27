@@ -49,7 +49,8 @@ git diff develop --name-only --diff-filter=A -- *.cs ` | ForEach-Object { $files
       
       <guid>http://shaunluttin.com/posts/effectiveness-of-positive-feedback/</guid>
       <description>Positive feedback helps because:
-it reinforces existing good behavior, it communicate that someone inspects the work, and it opens the apperture to receive corrective feedback. A manager can reasonably expect a member of staff to do 60% of the tasks assigned. We do well to reinforce every little bit of that existing 60%. Sure, we want them to improve, but first we need to solidify the existing 60% as a foundation for more.</description>
+it reinforces existing good behavior, it communicate that someone inspects the work, and it opens the apperture to receive corrective feedback. A manager can reasonably expect a member of staff to do 60% of the tasks assigned. Reinforce every little bit of the existing 60%. Sure, we want staff to improve. First, though, solidify the existing performance.
+Sometimes people perform poorly because they think no one cares.</description>
     </item>
     
     <item>
