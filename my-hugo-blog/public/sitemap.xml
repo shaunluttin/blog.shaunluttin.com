@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://shaunluttin.com/posts/answer-the-question-and-shutup/</loc>
-    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+    <loc>http://shaunluttin.com/posts/effectiveness-of-positive-feedback/</loc>
+    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://shaunluttin.com/posts/</loc>
-    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://shaunluttin.com/</loc>
+    <lastmod>2023-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://shaunluttin.com/posts/answer-the-question-and-shutup/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://shaunluttin.com/posts/windows-terminal-command-cheatsheet/</loc>
@@ -16,9 +19,6 @@
   </url><url>
     <loc>http://shaunluttin.com/posts/dotnet-command-line-cheatsheet/</loc>
     <lastmod>2023-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://shaunluttin.com/posts/effectiveness-of-positive-feedback/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://shaunluttin.com/posts/powershell-aggregate-or-reduce/</loc>
     <lastmod>2023-01-05T00:00:00+00:00</lastmod>

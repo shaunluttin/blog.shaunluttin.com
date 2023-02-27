@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Shaun Luttin, NrD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://shaunluttin.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://shaunluttin.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On the effectiveness of positive feedback</title>
+      <link>http://shaunluttin.com/posts/effectiveness-of-positive-feedback/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/effectiveness-of-positive-feedback/</guid>
+      <description>Positive feedback helps because:
+it reinforces existing good behavior, it communicate that someone inspects the work, and it opens the apperture to receive corrective feedback. A manager can reasonably expect a member of staff to do 60% of the tasks assigned. Reinforce every little bit of the existing 60%. Sure, we want staff to improve. First, though, solidify the existing performance.
+Sometimes people perform poorly because they think no one cares.</description>
+    </item>
+    
     <item>
       <title>Answer the question and shut-up</title>
       <link>http://shaunluttin.com/posts/answer-the-question-and-shutup/</link>
@@ -40,17 +51,6 @@ Move tab backwardMove tab forward </description>
       <description>This presents an opinionated cheatsheet about how to use .NET from the command line.
 .NET Core dotnet build dotnet test dotnet test --logger &amp;#34;console;verbosity=normal&amp;#34; --no-build dotnet test --filter PartialTestName .NET Framework (Legacy) dotnet msbuild dotnet vstest Extras Format new files with cshariper.
 git diff develop --name-only --diff-filter=A -- *.cs ` | ForEach-Object { $files = @() } { $files += $_ } { dotnet csharpier $files } </description>
-    </item>
-    
-    <item>
-      <title>On the effectiveness of positive feedback</title>
-      <link>http://shaunluttin.com/posts/effectiveness-of-positive-feedback/</link>
-      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://shaunluttin.com/posts/effectiveness-of-positive-feedback/</guid>
-      <description>Positive feedback helps because:
-it reinforces existing good behavior, it communicate that someone inspects the work, and it opens the apperture to receive corrective feedback. A manager can reasonably expect a member of staff to do 60% of the tasks assigned. Reinforce every little bit of the existing 60%. Sure, we want staff to improve. First, though, solidify the existing performance.
-Sometimes people perform poorly because they think no one cares.</description>
     </item>
     
     <item>
