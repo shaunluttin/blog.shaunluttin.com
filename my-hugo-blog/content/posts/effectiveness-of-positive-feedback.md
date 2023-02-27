@@ -25,7 +25,7 @@ Staff do need _some_ corrective feedback. It only works, though, if they absorb 
 
 Make feedback **specific** and **immediate**. Point to observable behavior; do it within hours not days.
 
-Remember, you don't have to do it perfectly (in fact, you never will).
+Remember, you don't have to do it perfectly (face it: you never will).
 
 ---
 
