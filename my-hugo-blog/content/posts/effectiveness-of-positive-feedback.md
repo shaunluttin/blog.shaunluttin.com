@@ -14,7 +14,7 @@ Reinforcing good behavior helps maintain it. Managers can reasonably expect staf
 
 Staff sometimes perform poorly because they think no one performs inspections. _Why bother; nobody checks._ Positive feedback communicates that we do inspect. _Oh, you do check up on me._ Call it friendly Machiavellian.
 
-Staff do need _some_ corrective feedback. It only works, though, if they absorb it. Most people act like a camera; positive feedback opens the apperature a bit; corrective feedback closes it a lot. Remember to open the apperature. While people differ in sensitivity, most find a ratio of 3:1 positive to corrective seems about right.
+Staff do need _some_ corrective feedback. It only works, though, if they absorb it. Most people act like a camera; positive feedback opens the apperature a bit; corrective feedback closes it a lot. Remember to open the apperature. While people differ in sensitivity, most find a ratio of 3:1 positive to corrective about right.
 
 #  A few tips that work for me:
 
