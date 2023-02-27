@@ -43,6 +43,16 @@ git diff develop --name-only --diff-filter=A -- *.cs ` | ForEach-Object { $files
     </item>
     
     <item>
+      <title>On the effectiveness of positive feedback</title>
+      <link>http://shaunluttin.com/posts/effectiveness-of-positive-feedback/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/effectiveness-of-positive-feedback/</guid>
+      <description>Positive feedback helps because:
+it reinforces existing good behavior, it communicate that someone inspects the work, and it opens the apperture to receive corrective feedback. A manager can reasonably expect a member of staff to do 60% of the tasks assigned. We do well to reinforce every little bit of that existing 60%. Sure, we want them to improve, but first we need to solidify the existing 60% as a foundation for more.</description>
+    </item>
+    
+    <item>
       <title>Reduce and/or aggregate in PowerShell</title>
       <link>http://shaunluttin.com/posts/powershell-aggregate-or-reduce/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
