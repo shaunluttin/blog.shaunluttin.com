@@ -23,7 +23,7 @@ Staff do need _some_ corrective feedback. It only works, though, if they absorb 
 * **Relevant**: While teaching someone to swim, praise the swimming technique. _Good coordination of legs and arms._
 * **Incremental**: First praise getting in the water, then we praise floating, then blowing bubbles, et cetera.
 
-Make feedback **specific** and **immediate**. Point to observable behavior and do it within hours not days.
+Make feedback **specific** and **immediate**. Point to observable behavior; do it within hours not days.
 
 Remember, you don't have to do it perfectly (in fact, you never will).
 
