@@ -6,7 +6,7 @@ draft: false
 
 When PhD students do their thesis defense, experts fly in to grill the student.
 Good thesis advisors train students to answer each question _and then shut-up_. 
-Students almost always feel a temptation to go on a length. 
+Students almost always feel a temptation to elaborate.
 
 Examiner: _Why did you use that particular statistical test?_
 
