@@ -13,7 +13,7 @@
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>http://shaunluttin.com/posts/git-list-branches-by-last-commit-author-and-date/</guid>
-      <description>git branch -a --sort=creatordate --sort=committername --format &amp;#34;%(align:20) %(creatordate:short) %(end) %(align:25) %(committername) %(end) %(refname:lstrip=-1)&amp;#34; See also: https://www.bigfont.ca/list-git-branches-with-the-name-of-the-last-committer</description>
+      <description>git branch --all --sort=creatordate --sort=committername ` --format &amp;#34;%(align:20) %(creatordate:short) %(end) %(align:25) %(committername) %(end) %(refname:lstrip=-1)&amp;#34; See also: https://www.bigfont.ca/list-git-branches-with-the-name-of-the-last-committer</description>
     </item>
     
     <item>

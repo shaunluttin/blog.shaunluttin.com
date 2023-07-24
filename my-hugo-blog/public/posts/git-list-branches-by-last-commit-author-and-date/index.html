@@ -44,7 +44,7 @@
   
   <meta name="theme-color" />
   
-  <meta name="description" content="git branch -a --sort=creatordate --sort=committername --format &#34;%(align:20) %(creatordate:short) %(end) %(align:25) %(committername) %(end) %(refname:lstrip=-1)&#34; See also: https://www.bigfont.ca/list-git-branches-with-the-name-of-the-last-committer" />
+  <meta name="description" content="git branch --all --sort=creatordate --sort=committername ` --format &#34;%(align:20) %(creatordate:short) %(end) %(align:25) %(committername) %(end) %(refname:lstrip=-1)&#34; See also: https://www.bigfont.ca/list-git-branches-with-the-name-of-the-last-committer" />
   <meta
     name="author"
     content=""
@@ -98,7 +98,7 @@
   
   
   <meta property="og:title" content="List git branches with the date and author of the last commit" />
-<meta property="og:description" content="git branch -a --sort=creatordate --sort=committername --format &#34;%(align:20) %(creatordate:short) %(end) %(align:25) %(committername) %(end) %(refname:lstrip=-1)&#34; See also: https://www.bigfont.ca/list-git-branches-with-the-name-of-the-last-committer" />
+<meta property="og:description" content="git branch --all --sort=creatordate --sort=committername ` --format &#34;%(align:20) %(creatordate:short) %(end) %(align:25) %(committername) %(end) %(refname:lstrip=-1)&#34; See also: https://www.bigfont.ca/list-git-branches-with-the-name-of-the-last-committer" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://shaunluttin.com/posts/git-list-branches-by-last-commit-author-and-date/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2023-07-24T00:00:00+00:00" />
@@ -106,14 +106,14 @@
 
   
   <meta itemprop="name" content="List git branches with the date and author of the last commit">
-<meta itemprop="description" content="git branch -a --sort=creatordate --sort=committername --format &#34;%(align:20) %(creatordate:short) %(end) %(align:25) %(committername) %(end) %(refname:lstrip=-1)&#34; See also: https://www.bigfont.ca/list-git-branches-with-the-name-of-the-last-committer"><meta itemprop="datePublished" content="2023-07-24T00:00:00+00:00" />
+<meta itemprop="description" content="git branch --all --sort=creatordate --sort=committername ` --format &#34;%(align:20) %(creatordate:short) %(end) %(align:25) %(committername) %(end) %(refname:lstrip=-1)&#34; See also: https://www.bigfont.ca/list-git-branches-with-the-name-of-the-last-committer"><meta itemprop="datePublished" content="2023-07-24T00:00:00+00:00" />
 <meta itemprop="dateModified" content="2023-07-24T00:00:00+00:00" />
-<meta itemprop="wordCount" content="16">
+<meta itemprop="wordCount" content="17">
 <meta itemprop="keywords" content="" />
   
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="List git branches with the date and author of the last commit"/>
-<meta name="twitter:description" content="git branch -a --sort=creatordate --sort=committername --format &#34;%(align:20) %(creatordate:short) %(end) %(align:25) %(committername) %(end) %(refname:lstrip=-1)&#34; See also: https://www.bigfont.ca/list-git-branches-with-the-name-of-the-last-committer"/>
+<meta name="twitter:description" content="git branch --all --sort=creatordate --sort=committername ` --format &#34;%(align:20) %(creatordate:short) %(end) %(align:25) %(committername) %(end) %(refname:lstrip=-1)&#34; See also: https://www.bigfont.ca/list-git-branches-with-the-name-of-the-last-committer"/>
 
   
   
@@ -220,7 +220,8 @@
     
   </header>
 
-  <section><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powershell" data-lang="powershell"><span style="display:flex;"><span>git branch -a --sort=creatordate --sort=committername --format <span style="color:#e6db74">&#34;%(align:20) %(creatordate:short) %(end) %(align:25) %(committername) %(end) %(refname:lstrip=-1)&#34;</span>
+  <section><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-powershell" data-lang="powershell"><span style="display:flex;"><span>git branch --all --sort=creatordate --sort=committername `
+</span></span><span style="display:flex;"><span>  --format <span style="color:#e6db74">&#34;%(align:20) %(creatordate:short) %(end) %(align:25) %(committername) %(end) %(refname:lstrip=-1)&#34;</span>
 </span></span></code></pre></div><p>See also: <a href="https://www.bigfont.ca/list-git-branches-with-the-name-of-the-last-committer">https://www.bigfont.ca/list-git-branches-with-the-name-of-the-last-committer</a></p>
 </section>
 
