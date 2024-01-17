@@ -40,28 +40,6 @@ Student: We designed our data collection to adhere to parametric test requiremen
     </item>
     
     <item>
-      <title>Windows Terminal Cheatsheet</title>
-      <link>http://shaunluttin.com/posts/windows-terminal-command-cheatsheet/</link>
-      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://shaunluttin.com/posts/windows-terminal-command-cheatsheet/</guid>
-      <description>Open the Command Palette with CTRL + SHIFT + P
-Then start typing one of these:
-Move tab backwardMove tab forward </description>
-    </item>
-    
-    <item>
-      <title>.NET Command Line Cheatsheet</title>
-      <link>http://shaunluttin.com/posts/dotnet-command-line-cheatsheet/</link>
-      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://shaunluttin.com/posts/dotnet-command-line-cheatsheet/</guid>
-      <description>This presents an opinionated cheatsheet about how to use .NET from the command line.
-.NET Core dotnet build dotnet test dotnet test --logger &amp;#34;console;verbosity=normal&amp;#34; --no-build dotnet test --filter PartialTestName .NET Framework (Legacy) dotnet msbuild dotnet vstest Extras Format new files with cshariper.
-git diff develop --name-only --diff-filter=A -- *.cs ` | ForEach-Object { $files = @() } { $files += $_ } { dotnet csharpier $files } </description>
-    </item>
-    
-    <item>
       <title>Reduce and/or aggregate in PowerShell</title>
       <link>http://shaunluttin.com/posts/powershell-aggregate-or-reduce/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>

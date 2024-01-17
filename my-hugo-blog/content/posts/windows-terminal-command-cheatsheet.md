@@ -1,7 +1,7 @@
 ---
 title: "Windows Terminal Cheatsheet"
 date: 2023-01-10
-draft: false
+draft: true
 ---
 
 Open the Command Palette with `CTRL` + `SHIFT` + `P`
