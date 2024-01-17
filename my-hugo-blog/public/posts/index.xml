@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Shaun Luttin, NrD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://shaunluttin.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://shaunluttin.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Anki Tips</title>
+      <link>http://shaunluttin.com/posts/my-personal-anki-tips/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/my-personal-anki-tips/</guid>
+      <description>Guidelines Make cards very, very easy. Prefer cloze deletions. Minimize words. Suspend cards I dislike. Set a very low bar for suspension. Revise suspended cards then unsuspend, delete, or archive. Change Note Type Ctrl + Shift + M Toggle Suspend Ctrl + J Preview Clozes Ctrl + L Archive cards by moving them to a new deck named Obsolete. Change Deck: Ctrl + D Review cards most days per week. Review in blocks of 10 to 20 minutes.</description>
+    </item>
+    
     <item>
       <title>List git branches with the date and author of the last commit</title>
       <link>http://shaunluttin.com/posts/git-list-branches-by-last-commit-author-and-date/</link>
