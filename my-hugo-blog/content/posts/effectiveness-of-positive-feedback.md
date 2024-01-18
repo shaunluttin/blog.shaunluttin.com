@@ -7,7 +7,7 @@ draft: false
 # Positive feedback helps because:
 
 - **it reinforces existing good behavior,**
-- **it communicate that someone inspects the work, and**
+- **it communicates that someone inspects the work, and**
 - **it opens the apperture to receive corrective feedback.**
 
 Reinforcing good behavior helps maintain it. Managers can reasonably expect staff to complete 60% of assigned tasks; we want to preserve that good behavior. If we focus on correcting the missing 40%, most people will perform worse. Build foundations; reinforce the _existing_ good stuff.
