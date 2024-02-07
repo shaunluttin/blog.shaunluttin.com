@@ -1,3 +1,11 @@
+main > article > header.post-header {
+    border-bottom:thin solid green;
+}
+
+main > article > header.post-header h1 {
+    color:inherit;
+}
+
 h1, h2, h3, h4 {
     color:green;
 }

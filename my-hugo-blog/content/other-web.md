@@ -2,7 +2,7 @@
 title = "Other Web Presence"
 +++
 
-# Software Development
+## Software Development
 
 Experimental Costing App for the Fernwood Road Cafe
 
@@ -19,16 +19,14 @@ StackOverflow
 - Over 100K points for TypeScript, C#, and ASP.NET Core.
 - https://stackoverflow.com/users/1108891/shaun-luttin
 
-Archived Blog Circa 2015
+Archived Blogs
 
-- https://muddlingthru.ca/
-
-Archived Blog Circa 2020
-
-- https://blog.bigfont.ca/
+- Circa 2015: https://muddlingthru.ca/
+- Circa 2020: https://blog.bigfont.ca/
 
 Microsoft MVP Profile
 
+- Four-time award winner for C# and ASP.NET Core.
 - https://mvp.microsoft.com/en-us/PublicProfile/5001182
 
 Practicing of Algorithms, Design Patterns, and Test Driven Development
