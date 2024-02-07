@@ -5,12 +5,14 @@
  On the other hand, the production build and deployment happens 
  like this.
 
- 1. Push to GitHub.
- 2. That triggers build and deployment with CloudFlare pages.
+ 1. Push to *GitHub*.
+ 2. That triggers build and deployment with *CloudFlare* pages.
 
 CloudFlare very simply builds with this command:
 
-    hugo -s my-hugo-blog/ -d ../public/
+    hugo
+
+Make sure to set the CloudFlare HUGO_VERSION = 0.122.0
 
 #>
 
