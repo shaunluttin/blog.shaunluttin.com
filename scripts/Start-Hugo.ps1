@@ -19,7 +19,7 @@ Make sure to set the CloudFlare HUGO_VERSION = 0.122.0
 git submodule init
 git submodule update
 
-choco install hugo
+choco upgrade hugo --version 0.122.0
 
 Start-Process "http://localhost:1313/";
 
