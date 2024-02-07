@@ -1,5 +1,5 @@
 ---
-title: "Creating a New Hugo Blog with a Friend"
+title: "Helping a Friend Create a New Blog with Hugo and GitHub Pages"
 date: 2024-02-06
 draft: false
 ---
