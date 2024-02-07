@@ -1,3 +1,6 @@
 [submodule "my-hugo-blog/themes/paper"]
 	path = my-hugo-blog/themes/paper
 	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "my-hugo-blog/themes/ananke"]
+	path = my-hugo-blog/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
