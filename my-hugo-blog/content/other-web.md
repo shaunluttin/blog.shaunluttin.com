@@ -6,7 +6,7 @@ title = "Other Web Presence"
 
 StackOverflow
 
-- Over 100K points for TypeScript, C#, and ASP.NET Core.
+- Over 130K points for TypeScript, C#, and ASP.NET Core.
 - https://stackoverflow.com/users/1108891/shaun-luttin
 
 Microsoft MVP Profile
