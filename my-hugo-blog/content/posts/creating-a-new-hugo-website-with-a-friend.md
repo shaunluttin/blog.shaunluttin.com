@@ -14,7 +14,7 @@ This is a very high level overview of how to create a new blog with GitHub using
 
 3. Clone that repository to your local machine.
 
-4. Publish your first plain text file as a GitHub Page. Done. Milestone achieved.
+4. Publish your first plain text file as a GitHub Page. Done. Milestone achieved!
 
 5. Get distracted by learning PowerShell, Git, and NeoVim. Yah!
 
