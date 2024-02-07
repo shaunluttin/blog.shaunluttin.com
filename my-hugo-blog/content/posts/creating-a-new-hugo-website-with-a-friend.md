@@ -12,8 +12,10 @@ This is a very high level overview of how to create a new blog with GitHub using
 
 2. Create a GitHub public repository for GitHub Pages.
 
-3. Publish your first plain text file as a GitHub Page. Done. Milestone achieved.
+3. Clone that repository to your local machine.
 
-4. Get distracted by learning PowerShell and NeoVim. Yah!
+4. Publish your first plain text file as a GitHub Page. Done. Milestone achieved.
 
-5. Install Hugo! (`choco install hugo`).
+5. Get distracted by learning PowerShell, Git, and NeoVim. Yah!
+
+6. Install Hugo! (`choco install hugo`).
