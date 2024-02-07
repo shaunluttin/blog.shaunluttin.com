@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Shaun Luttin, NrD'
-theme = 'classless-blog'
+theme = 'PaperMod'
 
 [menu]
 

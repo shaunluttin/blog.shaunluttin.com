@@ -24,6 +24,10 @@ draft: false
 
 2. Create a new Hugo site (`hugo new site <some-name>`).
 
+3. Add a theme and make sure to set your baseURL.
+
+4. Write your first blog post in `content/posts/some-title.md`.
+
 # Resources
 
 https://github.com/
