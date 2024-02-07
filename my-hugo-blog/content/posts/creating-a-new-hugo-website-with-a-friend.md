@@ -4,9 +4,9 @@ date: 2024-02-06
 draft: false
 ---
 
-This is a very high level overview of how to create a new blog with GitHub using Hugo.
+# Very High-Level Steps
 
-> Since we're using Windows, we use PowerShell and Chocolatey.
+## Set up Your GitHub Pages
 
 1. Create a new GitHub account.
 
@@ -18,6 +18,14 @@ This is a very high level overview of how to create a new blog with GitHub using
 
 5. Get distracted by learning PowerShell, Git, and NeoVim. Yah!
 
-6. Install Hugo! (`choco install hugo`).
+## Set up Your Hugo Site
 
-7. Publish to GitHub pages.
+1. Install Hugo! (`choco install hugo`).
+
+2. Create a new Hugo site (`hugo new site <some-name>`).
+
+# Resources
+
+https://github.com/
+
+https://gohugo.io/getting-started/quick-start/
