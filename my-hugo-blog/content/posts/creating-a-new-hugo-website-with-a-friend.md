@@ -4,7 +4,7 @@ date: 2024-02-06
 draft: false
 ---
 
-# Very High-Level Steps
+These very high level steps helped a friend set up a Hugo site.
 
 ## Set up Your GitHub Pages
 

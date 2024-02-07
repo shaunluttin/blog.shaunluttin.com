@@ -1,4 +1,4 @@
-baseURL = 'https://blog.shaunluttin.com"
+baseURL = 'https://blog.shaunluttin.com'
 languageCode = 'en-us'
 title = 'Shaun Luttin, NrD'
 theme = 'PaperMod'
@@ -6,7 +6,13 @@ theme = 'PaperMod'
 [menu]
 
   [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
     identifier = "other"
     name = "Other Web Presence"
     url = "/other-web/"
-    weight = 10
+    weight = 2
