@@ -19,3 +19,5 @@ This is a very high level overview of how to create a new blog with GitHub using
 5. Get distracted by learning PowerShell, Git, and NeoVim. Yah!
 
 6. Install Hugo! (`choco install hugo`).
+
+7. Publish to GitHub pages.
