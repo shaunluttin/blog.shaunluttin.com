@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaun Luttin, NrD</title>
+    <link>http://shaunluttin.com/</link>
+    <description>Recent content on Shaun Luttin, NrD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://shaunluttin.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Anki Tips</title>
+      <link>http://shaunluttin.com/posts/my-personal-anki-tips/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/my-personal-anki-tips/</guid>
+      <description>After 1,176 cards and 91 days of studying with Anki I now use these guidenlines.
+Revision of cards is key: create cards, review cards, suspend cards, revise cards.
+Guidelines Make cards very, very easy. Prefer cloze deletions. Minimize words. When reviewing, suspend cards I dislike. Set a very low bar for suspension. Revise suspended cards, then unsuspend &amp;rsquo;em for a second chance. Change Note Type Ctrl + Shift + M Toggle Suspend Ctrl + J Preview Clozes Ctrl + L If a card seems unsalvagable, delete or archive it.</description>
+    </item>
+    
+    <item>
+      <title>List git branches with the date and author of the last commit</title>
+      <link>http://shaunluttin.com/posts/git-list-branches-by-last-commit-author-and-date/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/git-list-branches-by-last-commit-author-and-date/</guid>
+      <description>git branch --all --sort=creatordate --sort=committername ` --format &amp;#34;%(align:20) %(creatordate:short) %(end) %(align:25) %(committername) %(end) %(refname:lstrip=-1)&amp;#34; See also: https://www.bigfont.ca/list-git-branches-with-the-name-of-the-last-committer</description>
+    </item>
+    
+    <item>
+      <title>On the effectiveness of positive feedback</title>
+      <link>http://shaunluttin.com/posts/effectiveness-of-positive-feedback/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/effectiveness-of-positive-feedback/</guid>
+      <description>Positive feedback helps because: it reinforces existing good behavior, it communicates that someone inspects the work, and it opens the apperture to receive corrective feedback. Reinforcing existing good behavior helps maintain it. Managers can reasonably expect staff to complete 60% of assigned tasks; we want to preserve that good behavior. If we focus on correcting the missing 40%, most people will perform worse. Build foundations; reinforce the existing good stuff.</description>
+    </item>
+    
+    <item>
+      <title>Answer the question and shut-up</title>
+      <link>http://shaunluttin.com/posts/answer-the-question-and-shutup/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/answer-the-question-and-shutup/</guid>
+      <description>When PhD students do their thesis defense, experts fly in to grill the student. Good thesis advisors train students to answer each question and then shut-up. Students almost always feel a temptation to elaborate.
+Examiner: Why did you use that particular statistical test?
+Student: We used regression because our data met its requirements for establishing cause-and-effect.
+Examiners: Silence.
+Student: We designed our data collection to adhere to parametric test requirements. Within the parametric set of tests, we also looked at comparison tests and correlation tests.</description>
+    </item>
+    
+    <item>
+      <title>Reduce and/or aggregate in PowerShell</title>
+      <link>http://shaunluttin.com/posts/powershell-aggregate-or-reduce/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/powershell-aggregate-or-reduce/</guid>
+      <description>PowerShell&amp;rsquo;s built-in ForEach-Object provides a reduce/aggregate routine.
+In short-form it looks like this to sum a range of numbers.
+@(1, 2, 3) | ForEach-Object { $sum = 0; } { $sum += $_; } { $sum; } If we break it out with comments, we can see three blocks.
+@(1, 2, 3, 4, 5) | ForEach-Object { # Begin. Here we set up the accumulator. $sum = 0; } { # Process.</description>
+    </item>
+    
+    <item>
+      <title>Set image metadata with exiftool</title>
+      <link>http://shaunluttin.com/posts/set-image-metadata-with-exiftool/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/set-image-metadata-with-exiftool/</guid>
+      <description>Install it from here https://exiftool.org/
+Find available tag names here https://exiftool.org/TagNames/index.html
+The following example sets the IPTC:Keywords attribute.
+exiftool(-k).exe .\turtles-climbing-hills.png -IPTC:Keywords=&amp;#34;Absurd&amp;#34; </description>
+    </item>
+    
+    <item>
+      <title>Debug legacy .NET Framework with VS Code</title>
+      <link>http://shaunluttin.com/posts/debug-dotnet-framework-with-vs-code/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/debug-dotnet-framework-with-vs-code/</guid>
+      <description>Build your app with a portable Program Database (PDB) output.
+msbuild ` /property:Configuration=Debug ` /property:Platform=x64 ` /property:DebugType=portable ` /t:Clean,Build ` /p:DeployOnBuild=true ` /p:WebPublishMethod=Package ` /p:PackageAsSingleFile=false ` C:\dev\MyApp In VSCode, Create ./.vscode/launch.config with this content.
+{&amp;#34;version&amp;#34;: &amp;#34;0.2.0&amp;#34;,&amp;#34;configurations&amp;#34;: [{&amp;#34;name&amp;#34;: &amp;#34;.NET Attach&amp;#34;,&amp;#34;type&amp;#34;: &amp;#34;clr&amp;#34;,&amp;#34;request&amp;#34;: &amp;#34;attach&amp;#34;,&amp;#34;processId&amp;#34;: &amp;#34;${command:pickProcess}&amp;#34;}]} In VSCode,
+Use &amp;lt;CTRL&amp;gt; + &amp;lt;SHIFT&amp;gt; + &amp;lt;P&amp;gt; to enter the command palette. Then choose Start Debugging. Then attach to your particular app.</description>
+    </item>
+    
+    <item>
+      <title>Sunset Existing Blogs</title>
+      <link>http://shaunluttin.com/posts/sunset-existing-blogs/</link>
+      <pubDate>Wed, 07 Dec 2022 19:47:08 -0800</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/sunset-existing-blogs/</guid>
+      <description>Archive Process
+Download the sunsetted sites as static archives. Serve them through CloudFlare pages. Done!
+Achived URLs:
+https://bigfont.ca https://www.bigfont.ca https://blog.bigfont.ca https://muddlingthru.ca https://www.muddlingthru.ca https://muddlingthru.com https://www.muddlingthru.com We used https://www.httrack.com/ to perform the archiving. Other tools also exist.</description>
+    </item>
+    
+    <item>
+      <title>Rebuild my Blog in Hugo</title>
+      <link>http://shaunluttin.com/posts/rebuild-my-blog-in-hugo/</link>
+      <pubDate>Wed, 07 Dec 2022 19:44:31 -0800</pubDate>
+      
+      <guid>http://shaunluttin.com/posts/rebuild-my-blog-in-hugo/</guid>
+      <description>Tasks Install Hugo by following the Quickstart. Done. Introduce scripts/ to build and start. Done. Philosophy Plain text provides portability. Automate all the things. Free costs less than paid. Make lots of ugly commits - expose the sausage making. </description>
+    </item>
+    
+    <item>
+      <title>Other Web Presence</title>
+      <link>http://shaunluttin.com/other-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shaunluttin.com/other-web/</guid>
+      <description>Software Development Experimental Costing App for the Fernwood Road Cafe Author https://github.com/fernwoodcafe/fernwoodcafe.github.io/tree/trunk/apps/fernwood-costing OpenID Connect App for Aurelia Founding Author https://github.com/aurelia-contrib/aurelia-open-id-connect StackOverflow Over 100K points for TypeScript, C#, and ASP.NET Core. https://stackoverflow.com/users/1108891/shaun-luttin Archived Blog Circa 2015 https://muddlingthru.ca/ Archived Blog Circa 2020 https://blog.bigfont.ca/ Microsoft MVP Profile https://mvp.microsoft.com/en-us/PublicProfile/5001182 Practicing of Algorithms, Design Patterns, and Test Driven Development https://github.com/shaunluttin/algorithms https://github.com/shaunluttin/khan-academy-algorithms https://github.com/shaunluttin/algorithms-unlocked https://github.com/shaunluttin/design-patterns https://github.com/shaunluttin/dojo </description>
+    </item>
+    
+  </channel>
+</rss>

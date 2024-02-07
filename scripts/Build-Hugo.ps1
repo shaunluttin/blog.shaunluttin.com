@@ -3,4 +3,4 @@ git submodule update
 
 choco install hugo
 
-hugo --source $PSScriptRoot\..\my-hugo-blog\
+hugo --source $PSScriptRoot\..\my-hugo-blog\ --destination $PSScriptRoot\..\public
