@@ -10,9 +10,6 @@
 [submodule "my-hugo-blog/themes/archie"]
 	path = my-hugo-blog/themes/archie
 	url = https://github.com/athul/archie.git
-[submodule "my-hugo-blog/theme/classless-blog"]
-	path = my-hugo-blog/theme/classless-blog
-	url = https://gitlab.com/Kaligule/classless-blog.git
 [submodule "my-hugo-blog/themes/classless-blog"]
 	path = my-hugo-blog/themes/classless-blog
 	url = https://gitlab.com/Kaligule/classless-blog.git
