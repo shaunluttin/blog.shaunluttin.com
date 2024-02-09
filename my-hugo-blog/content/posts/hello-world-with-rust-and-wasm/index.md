@@ -4,7 +4,9 @@ date: 2024-02-08
 draft: false
 ---
 
-Incredibly, the following runs with WASM.
+A friend of mine and I spent about five hours building this into Hugo. Here is [Jamin's version][1]. You can find the source code on [GitHub here][0].
+
+Incredibly, we embedded WASM running from Rust into this Hugo blog post. The most difficult part involved shoe-horning the WASM into Hugo.
 
 It uses three files:
 
@@ -28,3 +30,6 @@ For details see https://rustwasm.github.io/docs/book/game-of-life/hello-world.ht
 {{< game-of-life-display src="./wasm-game-of-life.js" >}}
 
 The above renders Conways Game of Life.
+
+[0]: https://github.com/shaunluttin/blog.shaunluttin.com/tree/trunk/my-hugo-blog/content/posts/hello-world-with-rust-and-wasm
+[1]: https://jhuntley.github.io/posts/game_of_life/
