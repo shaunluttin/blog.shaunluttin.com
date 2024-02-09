@@ -55,8 +55,8 @@
 /******/ 		"../pkg/wasm_game_of_life_bg.wasm": function() {
 /******/ 			return {
 /******/ 				"./wasm_game_of_life_bg.js": {
-/******/ 					"__wbg_alert_d3b6e8db27c82dfa": function(p0i32,p1i32) {
-/******/ 						return installedModules["../pkg/wasm_game_of_life_bg.js"].exports["__wbg_alert_d3b6e8db27c82dfa"](p0i32,p1i32);
+/******/ 					"__wbindgen_throw": function(p0i32,p1i32) {
+/******/ 						return installedModules["../pkg/wasm_game_of_life_bg.js"].exports["__wbindgen_throw"](p0i32,p1i32);
 /******/ 					}
 /******/ 				}
 /******/ 			};
@@ -159,7 +159,7 @@
 /******/ 				promises.push(installedWasmModuleData);
 /******/ 			else {
 /******/ 				var importObject = wasmImportObjects[wasmModuleId]();
-/******/ 				var req = fetch(__webpack_require__.p + "" + {"../pkg/wasm_game_of_life_bg.wasm":"55ea04c83f7c9f08ea50"}[wasmModuleId] + ".module.wasm");
+/******/ 				var req = fetch(__webpack_require__.p + "" + {"../pkg/wasm_game_of_life_bg.wasm":"b5c3cfdbd4523a4f1959"}[wasmModuleId] + ".module.wasm");
 /******/ 				var promise;
 /******/ 				if(importObject instanceof Promise && typeof WebAssembly.compileStreaming === 'function') {
 /******/ 					promise = Promise.all([WebAssembly.compileStreaming(req), importObject]).then(function(items) {
