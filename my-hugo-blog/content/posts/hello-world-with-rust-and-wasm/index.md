@@ -4,6 +4,6 @@ date: 2024-02-08
 draft: false
 ---
 
-These very high level steps helped a friend set up Rust with WASM.
+Attempting to run Web Assembly here!
 
-1. Install Rust.
+{{< wasm_gol >}}
