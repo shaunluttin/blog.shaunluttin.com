@@ -4,6 +4,6 @@ date: 2024-02-08
 draft: false
 ---
 
-Attempting to run Web Assembly here!
+Incredibly, that alert runs with WASM! 
 
-{{< wasm_gol >}}
+{{< javascript-file src="./wasm-game-of-life.js" >}}
