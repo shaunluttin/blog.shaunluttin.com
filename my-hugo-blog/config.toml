@@ -2,6 +2,7 @@ baseURL = 'https://blog.shaunluttin.com'
 languageCode = 'en-us'
 title = 'Shaun Luttin, NrD'
 theme = 'PaperMod'
+staticDir = ['_apps/wasm-game-of-life/www/dist']
 
 [menu]
 
