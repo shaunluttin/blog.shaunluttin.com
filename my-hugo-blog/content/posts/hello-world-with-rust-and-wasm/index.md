@@ -27,3 +27,4 @@ For details see https://rustwasm.github.io/docs/book/game-of-life/hello-world.ht
 
 {{< game-of-life-display src="./wasm-game-of-life.js" >}}
 
+The above renders Conways Game of Life.
