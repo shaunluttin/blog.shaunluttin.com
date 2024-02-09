@@ -1,3 +1,14 @@
+# -----------
+# Rust Stuff
+# -----------
+
+# Build the Rust project.
+wasm-pack build
+
+# -----------
+# Node Stuff
+# -----------
+
 # This prevents node from complaining about SSL crypto stuff.
 $env:NODE_OPTIONS = "--openssl-legacy-provider"
 
